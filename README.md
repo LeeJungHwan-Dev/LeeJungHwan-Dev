@@ -8,8 +8,7 @@ In addition, I am interested in development and like it.🌈
 
 
 
-
-
+<br/>
 
 📝 Summary
 
@@ -24,9 +23,7 @@ In addition, I am interested in development and like it.🌈
 
 
 
-
-
-
+<br/>
 
 📌 Platforms & Languages
 
