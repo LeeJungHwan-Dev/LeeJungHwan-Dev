@@ -6,9 +6,6 @@ I use Python and Java as the main development languages.🛫
 
 In addition, I am interested in development and like it.🌈
 
-
-
-<br/>
 <br/>
 <br/>
 
@@ -22,10 +19,6 @@ In addition, I am interested in development and like it.🌈
 ● 🥽 I am trying to plan and develop several personal projects.
 * ✨ Please look forward to it.
 
-
-
-
-<br/>
 <br/>
 <br/>
 
