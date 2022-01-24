@@ -28,6 +28,6 @@ In addition, I am interested in development and like it.🌈
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJungHwan-Dev&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJungHwan-Dev&layout=compact&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJungHwan-Dev&show_icons=true&theme=cobalt)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh)](https://solved.ac/ljh/)
