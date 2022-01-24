@@ -7,6 +7,9 @@ I use Python and Java as the main development languages.🛫
 In addition, I am interested in development and like it.🌈
 
 
+
+
+
 📝 Summary
 
 ● 🧰 I am interested in Android app development and IOT, so I am studying this field.
@@ -16,6 +19,13 @@ In addition, I am interested in development and like it.🌈
 
 ● 🥽 I am trying to plan and develop several personal projects.
 * ✨ Please look forward to it.
+
+
+
+
+
+
+
 
 📌 Platforms & Languages
 
