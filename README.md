@@ -8,7 +8,7 @@ In addition, I am interested in development and like it.🌈
 
 <br/>
 <br/>
-
+ 
 📝 Summary
 
 ● 🧰 I am interested in Android app development and IOT, so I am studying this field.
