@@ -11,12 +11,12 @@ In addition, I am interested in development and like it.🌈
  
 📝 Summary
 
-● 🧰 I am interested in Android app development and IOT, so I am studying this field.
+- 🧰 I am interested in Android app development and IOT, so I am studying this field.
 
-● 🎨 The representative Android app I made is a diary app called "해따".
+- 🎨 The representative Android app I made is a diary app called "해따".
 * 🔍 You can find it on the Google Play Store.
 
-● 🥽 I am trying to plan and develop several personal projects.
+- 🥽 I am trying to plan and develop several personal projects.
 * ✨ Please look forward to it.
 
 <br/>
