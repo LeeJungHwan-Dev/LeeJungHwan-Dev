@@ -33,3 +33,9 @@ In addition, I am interested in development and like it.🌈
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJungHwan-Dev&show_icons=true&theme=cobalt)
+
+
+## 이력
+- 전북대학교 작품 경진대회 CV - PASS ( 은상 입상 🏅)
+- 전북대학교 아이디어 해커톤 참여 Happy_Throw ( RFID 플라스틱 소모량 절감을 위한 앱 개발 )
+- SW 중심대학 공동 해커톤 참여 We_play ( 전국 관광지 정보를 통합 및 예매 플랫폼 )
