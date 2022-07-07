@@ -25,9 +25,9 @@ In addition, I am interested in development and like it.🌈
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-A566FF?style=flat-square&logo=Visual%20Studio%20Code&logoColor=#007ACC" />
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-A566FF?style=flat-square&logo=Visual%20Studio%20Code&logoColor=#007ACC" />
  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&labelColor=3776AB"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&labelColor=007396"/> <img src = "https://img.shields.io/badge/-C%2FC%2B%2B-orange?style=flat-square"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 <br/>
 
