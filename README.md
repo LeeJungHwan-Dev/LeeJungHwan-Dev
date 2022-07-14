@@ -31,7 +31,7 @@ In addition, I am interested in development and like it.🌈
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHwan Lee&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHwan_Lee&show_icons=true&theme=cobalt)
 
 
 ## 📋 Antecedents
