@@ -2,10 +2,6 @@ Hello~ (●'◡'●)/
 
 Welcome to my profile.⭐ 
 
-I use Java and Kotiln as the main development languages.🛫 
-
-In addition, I am interested in development and like it.🌈
-
 <br/>
 <br/>
  
