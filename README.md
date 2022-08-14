@@ -7,12 +7,10 @@ Welcome to my profile.⭐
  
 📝 Summary
 
-- 🧰 I am interested in Android app development and IOT, so I am studying this field.
+- 🧰 I am interested in Android app development, so I am studying this field.
 - 🎨 The representative Android app I made is a diary app called "해따".
 * 🔍 You can find it on the Google Play Store.
-
 - 🥽 I am trying to plan and develop several personal projects.
-* ✨ Please look forward to it.
 
 <br/>
 <br/>
@@ -26,6 +24,7 @@ Welcome to my profile.⭐
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 <br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJungHwan-Dev&show_icons=true&theme=cobalt)
 
