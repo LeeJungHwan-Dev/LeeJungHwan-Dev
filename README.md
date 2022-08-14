@@ -3,7 +3,6 @@ Hello~ (●'◡'●)/
 Welcome to my profile.⭐ 
 
 <br/>
-<br/>
  
 📝 Summary
 
@@ -21,7 +20,7 @@ Welcome to my profile.⭐
 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-A566FF?style=flat-square&logo=Visual%20Studio%20Code&logoColor=#007ACC" />
  
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-00599C?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 <br/>
 
