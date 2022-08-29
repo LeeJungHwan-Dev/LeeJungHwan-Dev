@@ -14,6 +14,10 @@ Welcome to my profile.⭐
 <br/>
 <br/>
 
+
+Notion : https://www.notion.so/Profile-b12d9aeb1fa84629b776acc030341198
+Velog : https://velog.io/@aftermoa
+
 📌 Platforms & Languages
 
 <br/>
