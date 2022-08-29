@@ -36,5 +36,5 @@ Welcome to my profile.⭐
 
 ##
 
-Notion : https://www.notion.so/dev-leee/Profile-b12d9aeb1fa84629b776acc030341198 <br/>
+Notion : https://dev-leeejh.notion.site/Profile-2cb3ac4ff74e43d89b9a384552f51d81 <br/>
 Velog : https://velog.io/@aftermoa
