@@ -1,4 +1,5 @@
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeJungHwan&fontSize=90)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=fadeIn&text=LeeJungHwan&fontAlign=70&fontAlignY=40&color=gradient)
+ 
  
  <h1 align="center"> 📝 Summary </h1>
 
