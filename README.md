@@ -24,7 +24,7 @@
        <th>기술</th>
      </tr>
    </thead>
-   <tbody>
+   <tbody align="center">
      <tr>
        <td>Android</td>
           <td> 
