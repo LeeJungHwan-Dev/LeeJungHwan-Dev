@@ -82,8 +82,8 @@
 <br/>
 
 <h1 align="center"> 📝 Additional History </h1>
-- 2021년 전북대학교 아이디어 해커톤 참여 Happy_Throw ( RFID 플라스틱 소모량 절감을 위한 앱 개발 )<br/>
 - 2022년 SW 중심대학 공동 해커톤 참여 We_play ( 전국 관광지 정보를 통합 및 예매 플랫폼 )<br/>
+- 2021년 전북대학교 아이디어 해커톤 참여 Happy_Throw ( RFID 플라스틱 소모량 절감을 위한 앱 개발 )<br/>
 - 2021년 개인 수익형 앱 일기장 - 해따(Hatda) 개발
 <br/>
 <br/>
