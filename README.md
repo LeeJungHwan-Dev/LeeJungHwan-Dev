@@ -35,8 +35,7 @@
      </tr>
      <tr>
        <td>Web</td>
-         <td> 
-            <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-A566FF?style=for-the-badge&&logo=Visual%20Studio%20Code&logoColor=#007ACC" />
+         <td>
             <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
             <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
             <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -57,6 +56,13 @@
        <td>DB</td>
          <td> 
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&&logo=firebase&logoColor=white"> 
+         </td>
+     </tr>
+    <tr>
+       <td>IDE</td>
+         <td>
+           <img src = "https://img.shields.io/badge/Android Studio-007ACC?style=for-the-badge&&logo=Android Studio&logoColor=#007ACC" />
+           <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-A566FF?style=for-the-badge&&logo=Visual%20Studio%20Code&logoColor=#007ACC" />
          </td>
      </tr>
     <tr>
