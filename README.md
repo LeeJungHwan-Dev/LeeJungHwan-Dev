@@ -75,19 +75,18 @@
 
 
 <h1 align="center"> 🏆 Award Record </h1>
-- 2022년 전북대학교 작품 경진대회 "우리집 지키미" ( 대상 입상 🏅)<br/>
-- 2022년 SW캡스톤디자인 경진대회 "우리집 지키미" ( 최우수상 입상 🎖️)<br/>
-- 2021년 전북대학교 작품 경진대회 "CV - PASS" ( 은상 입상 🥈)
-<br/>
+
+- [ 2022년 전북대학교 작품 경진대회 "우리집 지키미" ( 대상 입상 🏅) ](https://github.com/LeeJungHwan-Dev/2022_Capstone-Design) <br/>
+- [ 2022년 SW캡스톤디자인 경진대회 "우리집 지키미" ( 최우수상 입상 🎖️) ](https://github.com/LeeJungHwan-Dev/2022_Capstone-Design) <br/>
+- [ 2021년 전북대학교 작품 경진대회 "CV - PASS" ( 은상 입상 🥈) ](https://github.com/LeeJungHwan-Dev/2021_Competition_CV_PASS)
 <br/>
 
 <h1 align="center"> 📝 Additional History </h1>
-- 2022년 SW 중심대학 공동 해커톤 참여 We_play ( 전국 관광지 정보를 통합 및 예매 플랫폼 )<br/>
-- 2021년 전북대학교 아이디어 해커톤 참여 Happy_Throw ( RFID 플라스틱 소모량 절감을 위한 앱 개발 )<br/>
-- 2021년 개인 수익형 앱 일기장 - 해따(Hatda) 개발
-<br/>
-<br/>
 
+- [ 2022년 SW 중심대학 공동 해커톤 참여 We_play ( 전국 관광지 정보를 통합 및 예매 플랫폼 ) ](https://github.com/LeeJungHwan-Dev/2022_SW_HackAthon_We_Play) <br/>
+- [ 2021년 전북대학교 아이디어 해커톤 참여 Happy_Throw ( RFID 플라스틱 소모량 절감을 위한 앱 개발 ) ](https://github.com/LeeJungHwan-Dev/2021_IDEA_HackAthon_Happy_Throw) <br/>
+- [ 2021년 개인 수익형 앱 일기장 - 해따(Hatda) 개발 ](https://github.com/LeeJungHwan-Dev/GooglePlay_Hatda)
+ <br/>
 
 ---
 Notion : https://dev-leeejh.notion.site/Profile-2cb3ac4ff74e43d89b9a384552f51d81 <br/>
