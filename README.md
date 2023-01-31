@@ -4,10 +4,9 @@
 
 </br>
 
-- 🧰 I am interested in Android app development, so I am studying this field.
-- 🎨 The representative Android app I made is a diary app called "해따".
-* 🔍 You can find it on the Google Play Store.
-- 🥽 I am trying to plan and develop several personal projects.
+- 🧰 웹 개발과 안드로이드 개발에 흥미와 관심을 가지고 학습하는 개발자입니다.
+- 🎨 구글 플레이 스토어에 "해따" 일기장 앱을 제작하여 실제 서비스 운영중입니다.
+- 🥽 학습한 내용을 바탕으로 프로젝트를 설계하고 제작하는 경험을 꾸준히 하고있습니다.
 
 <br/>
 
