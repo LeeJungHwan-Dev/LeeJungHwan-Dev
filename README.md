@@ -90,5 +90,5 @@
  <br/>
 
 ---
-Notion : https://dev-leeejh.notion.site/Profile-2cb3ac4ff74e43d89b9a384552f51d81 <br/>
+Notion : https://dev-leeejh.notion.site/cc5393469cdf48b2ab22a456a97b7717?pvs=4 <br/>
 Velog : https://velog.io/@aftermoa
