@@ -78,9 +78,9 @@
 
 <h1 align="center"> 🏆 Award Record </h1>
 
-- [ 2022년 전북대학교 작품 경진대회 "우리집 지키미" ( 대상 입상 🏅) ](https://github.com/LeeJungHwan-Dev/2022_Capstone-Design) <br/>
+- [ 2022년 작품 경진대회 "우리집 지키미" ( 대상 입상 🏅) ](https://github.com/LeeJungHwan-Dev/2022_Capstone-Design) <br/>
 - [ 2022년 SW캡스톤디자인 경진대회 "우리집 지키미" ( 최우수상 입상 🎖️) ](https://github.com/LeeJungHwan-Dev/2022_Capstone-Design) <br/>
-- [ 2021년 전북대학교 작품 경진대회 "CV - PASS" ( 은상 입상 🥈) ](https://github.com/LeeJungHwan-Dev/2021_Competition_CV_PASS)
+- [ 2021년 작품 경진대회 "CV - PASS" ( 은상 입상 🥈) ](https://github.com/LeeJungHwan-Dev/2021_Competition_CV_PASS)
 
 <h1 align="center"> 📝 Additional History </h1>
 
